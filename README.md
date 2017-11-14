@@ -23,6 +23,6 @@ Starter kit for publishing react component to npm and yarn
 
 **Step 1:** `npm adduser`
 
-**Step 2:** `npm adduser`
+**Step 2:** `npm publish`
 
-**Step 3:** `npm publish`
+check your package in npmjs.com
