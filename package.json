@@ -1,0 +1,45 @@
+{
+  "name": "react-starter-publish-package",
+  "version": "1.0.0",
+  "description": "Starter kit for publishing react package to npm and yarn",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeimuslim/react-starter-publish-package.git"
+  },
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  },
+  "keywords": [
+    "starter",
+    "react",
+    "component",
+    "publish",
+    "package",
+    "npm",
+    "yarn"
+  ],
+  "author": "Safei Muslim <safeydev@gmail.com> (http://www.safeimuslim.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/safeimuslim/react-starter-publish-package/issues"
+  },
+  "homepage": "https://github.com/safeimuslim/react-starter-publish-package#readme"
+}
